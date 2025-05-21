@@ -1,6 +1,4 @@
-# Máster Front End XVII - Laboratorio React
-
-# Sistema de Gestión de Pedidos
+# Smart Orders - Sistema de Gestión de Pedidos
 
 Un sistema de gestión de pedidos basado en React, construido con TypeScript y Material-UI.
 
