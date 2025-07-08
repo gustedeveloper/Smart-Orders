@@ -5,7 +5,7 @@ import { OrderDetailPage } from "@/scenes/order-detail";
 export const AppRoutes = () => {
   return (
     <>
-      <Router>
+      <Router basename="/Smart-Orders/">
         <Routes>
           <Route path="/" element={<OrdersListPage />} />
           <Route path="/order-detail/:id" element={<OrderDetailPage />} />

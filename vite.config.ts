@@ -4,6 +4,7 @@ import path from "path";
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/Smart-Orders/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),
